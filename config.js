@@ -15,5 +15,5 @@ Sao không nhanh đến bên nhau`,
     mess: 'Em biết mà 🥰. Yêu chị nhiều nhiều 😘😘',
     messDesc: 'Khi nào em thi xong mình yêu nhauuuuu nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/LilAanr/'
+    messLink: 'https://www.facebook.com/profile.php?id=100023343844451'
 }
