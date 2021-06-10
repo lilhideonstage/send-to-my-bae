@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Thuông ơi!',
+    introTitle: 'Chị ơi!',
     introDesc: `Đến đây với em nào đến gần hơn thử xem nào
     Một mình tít trên cao chị không thấy lẻ loi sao?
     Chị giờ n'sao chị giờ n'sao
@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho Em <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Em biết mà 🥰. Yêu chị nhiều nhiều 😘😘',
-    messDesc: 'Khi nào em thi xong mình yêu nhauuuuu nha.',
+    messDesc: 'Khi nào chị muốn thì mình hẹn hò nha.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://youtu.be/SGlBQR-ftVI'
 }
